@@ -7,7 +7,7 @@ public class Histograma {
         int positivos = 0;
         int negativos = 0;
 
-        System.out.println("Ingrese varios valores, termine con cero:");
+        System.out.println("Ingrese valores enteros y termine con cero:");
 
         while (true) {
             int numero = scanner.nextInt();
